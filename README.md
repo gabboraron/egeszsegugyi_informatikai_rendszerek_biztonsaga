@@ -1,0 +1,2 @@
+# egeszsegugyi_informatikai_rendszerek_biztonsaga
+security
