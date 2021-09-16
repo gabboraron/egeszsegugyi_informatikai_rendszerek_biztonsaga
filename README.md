@@ -12,3 +12,7 @@ Jegyszerzés: évközi jegy / a szorgalmi időszak utolsó órarendi találkozá
 feladat: https://miau.my-x.hu/miau/ex-cel-atlon/kuratorium.docx
 
 
+# EA2
+
+https://miau.my-x.hu/miau/273/naiv_optimalizalt_verziok2.xlsx
+
