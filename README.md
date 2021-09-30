@@ -71,5 +71,13 @@ Betegek önrendelkezésének tiszteletben tartása:
 - mit tehet a testével
 - az adatok továbbításának jogi követelményei
 
+# EA4
+> Van-e értelme védeni jelentéktelen  adatokat?
+**free datasetek:**
+- https://mlcourse.ai/
+- https://data.nasdaq.com/search?filters=%5B%22Free%22%2C%22Europe%22%5D
+- https://datasetsearch.research.google.com/
+- https://www.dataquest.io/blog/free-datasets-for-projects/
 
+*házi: kitalálni egy olyan attribútumot ami érvényes mindegyik bemeneti adatra*
 
