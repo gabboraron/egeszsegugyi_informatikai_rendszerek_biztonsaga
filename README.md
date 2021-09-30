@@ -73,6 +73,8 @@ Betegek önrendelkezésének tiszteletben tartása:
 
 # EA4
 > Van-e értelme védeni jelentéktelen  adatokat?
+
+
 **free datasetek:**
 - https://mlcourse.ai/
 - https://data.nasdaq.com/search?filters=%5B%22Free%22%2C%22Europe%22%5D
