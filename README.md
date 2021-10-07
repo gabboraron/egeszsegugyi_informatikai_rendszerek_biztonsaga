@@ -83,3 +83,11 @@ Betegek önrendelkezésének tiszteletben tartása:
 
 *házi: kitalálni egy olyan attribútumot ami érvényes mindegyik bemeneti adatra*
 
+# EA5
+https://miau.my-x.hu/mediawiki/index.php/OE_egeszsegugyi_informatikai_rendszerek_biztonsaga#2021.10.07.
+> az ár a döntési rendszer inputja
+> - https://miau.my-x.hu/msc/kuratorium/kuratorium_2021_iofn.xlsx
+> - https://miau.my-x.hu/mediawiki/index.php/OE_3333 
+> - https://miau.my-x.hu/mediawiki/index.php/OE_egeszsegugyi_informatikai_rendszerek_biztonsaga#2021.10.07.
+
+https://miau.my-x.hu/msc/kuratorium/kuratorium_2021_iofn_v2.xlsx 
