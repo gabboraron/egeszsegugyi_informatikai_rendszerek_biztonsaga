@@ -94,3 +94,6 @@ https://miau.my-x.hu/msc/kuratorium/kuratorium_2021_iofn_v2.xlsx
 
 # EA6
 a jogszabályokat nem lehet áttekinteni amíg nem következetesek, 
+
+# EA7
+https://miau.my-x.hu/mediawiki/index.php/OE_egeszsegugyi_informatikai_rendszerek_biztonsaga#2021.10.21.
