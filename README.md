@@ -99,3 +99,6 @@ a jogszabályokat nem lehet áttekinteni amíg nem következetesek,
 - https://miau.my-x.hu/mediawiki/index.php/OE_egeszsegugyi_informatikai_rendszerek_biztonsaga#2021.10.21.
 - https://www.teir.hu/
 
+# EA8
+- [Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo)
+- 
