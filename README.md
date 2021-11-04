@@ -101,4 +101,11 @@ a jogszabályokat nem lehet áttekinteni amíg nem következetesek,
 
 # EA8
 - [Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo)
-- 
+
+# EA9- audit MI-vel
+kontroll
+- preventív: megelőzi a problémát
+- detektív: elriasztó erejű megfigyelés, pl bolti kamera
+- korrektív: vissza backupoljuk
+
+Mi az **MI:** az emberi szűrőképességet maximalizálnia kell, a kinyert informció nagyobb mennyiségű kell legyen.
