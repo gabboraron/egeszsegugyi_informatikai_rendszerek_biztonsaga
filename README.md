@@ -14,6 +14,9 @@ feladat: https://miau.my-x.hu/miau/ex-cel-atlon/kuratorium.docx
 
 # EA2
 
+Dobó Andor joker elmélet: [rang64 működésének alapjai](https://github.com/gabboraron/egeszsegugyi_informatikai_rendszerek_biztonsaga/blob/main/3896-Tanulm%C3%A1nysz%C3%B6veg-14186-1-10-20180606%20(1).pdf)
+
+
 https://miau.my-x.hu/miau/273/naiv_optimalizalt_verziok2.xlsx
 
 # EA3 ~ egészségügyi adatkezelés
