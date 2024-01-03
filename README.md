@@ -1,3 +1,7 @@
+*Itt a jegyzetem található a kurzusról, nem a beadandóm! Idézni eképp lehet: [HU ISSN 14191652, Egészségügyi adatok OLAP-szintű keresője kockázatelemzési célra (OLAP-based health statistics in learning content systems for risk management)Egészségügyi adatok OLAP-szintű keresője kockázatelemzési célra (OLAP-based health statistics in learning content systems for risk management) MIAÚ · Nov 1, 2021](https://miau.my-x.hu/miau/279/olap_alapu_oktatas.mp4)*
+
+----------
+
 # Egészségügyi informatikai rendszerek biztonsága
 
 > ajánlott irodalom: Szathmári Sándor kazohinia
@@ -112,3 +116,8 @@ kontroll
 - korrektív: vissza backupoljuk
 
 Mi az **MI:** az emberi szűrőképességet maximalizálnia kell, a kinyert informció nagyobb mennyiségű kell legyen.
+
+
+-----
+
+beadandó: https://web.archive.org/web/20220415145241/http://ec2-3-18-106-85.us-east-2.compute.amazonaws.com
